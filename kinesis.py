@@ -16,8 +16,8 @@ except Exception as e:
  
 def main():
  
-    AWS_ACCESS_KEY = "AKIA2OLGZXFFBUKYA4BP"
-    AWS_SECRET_KEY = "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"
+    AWS_ACCESS_KEY = "AKIA2OLGZXFFBU******"
+    AWS_SECRET_KEY = "LK0nu3H6/wzBXoo1z****************"
     AWS_REGION_NAME = "ap-south-1"
  
     for i in range(1, 25):
